@@ -23,7 +23,7 @@ This project is an automated tomato sorting system designed to categorize tomato
 ## Software & Protocols
 * Firmware: Developed for the microcontroller to read sensor data, process the sorting logic and control the LCD display.
 * Sensor Libraries:
-  * I2C protocol interfaces for LCD display, LyquidCrystal library is needed.
+  * I2C protocol interfaces for LCD display, LiquidCrystal library is needed.
   * Requires libraries for the HX711 and TCS34725 sensors to interface with the microcontroller.
 
 ## How It Works
